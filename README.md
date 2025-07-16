@@ -2,8 +2,6 @@
 
 🚀 **Projeto pessoal desenvolvido com foco em corredores** que desejam registrar, acompanhar e se organizar melhor com suas provas ao longo do ano.
 
-![Banner My Run Life](https://lucent-kangaroo-14bf6c.netlify.app/banner.jpg) <!-- (adicione um banner real se quiser) -->
-
 ---
 
 ## 📱 Funcionalidades
